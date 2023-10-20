@@ -3,7 +3,6 @@ from pathlib import Path
 import re
 import shutil
 
-
 JPEG_IMAGES = []
 JPG_IMAGES = []
 PNG_IMAGES = []
